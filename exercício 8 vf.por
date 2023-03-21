@@ -8,8 +8,7 @@ programa
 		leia(v1, v2, v3)
 		se(v1 > v2 e v2 > v3)
 		{
-			escreva("
-A ordem decrescente dos números digitados é: ", v1, v2, v3)
+			escreva("A ordem decrescente dos números digitados é: ", v1, v2, v3)
 		}
 		senao
 		{
