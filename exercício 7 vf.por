@@ -38,6 +38,10 @@ programa
 						divisao = n1 / n2
 						escreva("A divisão de ", n1, " / ", n2, " é: ", divisao)
 					}
+					senao
+					{
+					        escreva("Operação inválida")
+					}	
 				}
 			}
 		}
